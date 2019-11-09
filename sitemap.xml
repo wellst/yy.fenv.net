@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yy.fenv.net/posts/20171002-%E4%B8%9C%E6%B5%B7%E5%B2%B8%E7%8E%B2%E5%A7%90%E9%BE%9F%E5%A4%A7%E5%A4%B4%E5%92%8C%E4%B8%B0/</loc>
+    <lastmod>2017-10-02T18:26:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yy.fenv.net/posts/20170131-second/</loc>
     <lastmod>2017-01-31T22:36:50+08:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://yy.fenv.net/posts/</loc>
-    <lastmod>2017-01-31T22:36:50+08:00</lastmod>
+    <lastmod>2017-10-02T18:26:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,7 +40,7 @@
   
   <url>
     <loc>https://yy.fenv.net/</loc>
-    <lastmod>2017-01-31T22:36:50+08:00</lastmod>
+    <lastmod>2017-10-02T18:26:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
