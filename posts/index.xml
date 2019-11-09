@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on YY骑行记录</title>
+    <link>https://yy.fenv.net/posts/</link>
+    <description>Recent content in Posts on YY骑行记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Aug 2016 07:18:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://yy.fenv.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>YY第一次骑行，Wells和龟</title>
+      <link>https://yy.fenv.net/posts/20160814-first/</link>
+      <pubDate>Sun, 14 Aug 2016 07:18:35 +0800</pubDate>
+      
+      <guid>https://yy.fenv.net/posts/20160814-first/</guid>
+      <description>龟买了公爵600，早上出发去莱芜渡口。也许那时他还年轻，一直说不会太累，到了渡口回来时转到红头船公园，走国道回汕头，不知不觉就50公里了。</description>
+    </item>
+    
+  </channel>
+</rss>
